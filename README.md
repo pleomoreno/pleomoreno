@@ -12,7 +12,7 @@
 </a>
 
 <div>
-  <img src="[cat](https://github.com/user-attachments/assets/fcac48fa-b793-4a74-b353-c4c2b6669d9b)" width="250px" align="right" alt="funny cat"/>
+  <img src="https://github.com/user-attachments/assets/fcac48fa-b793-4a74-b353-c4c2b6669d9b" width="250px" align="right" alt="funny cat"/>
 </div>
 
 <ul>
