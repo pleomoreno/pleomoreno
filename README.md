@@ -59,4 +59,4 @@
 ## ⚙️ GitHub Analytics
 
   [![Leonardo Moreno's GitHub stats](https://github-readme-stats.vercel.app/api?username=pleomoreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/pleomoreno/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAugustoOG&hide_progress=true&theme=github_dark)](https://github.com/pleomoreno/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleomoreno&hide_progress=true&theme=github_dark)](https://github.com/pleomoreno/github-readme-stats)
