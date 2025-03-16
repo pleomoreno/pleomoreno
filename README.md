@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE4B2B&width=435&lines=Computer+Science+Student+at+IMT;%22Stay+hungry,+stay+foolish.%22;There's+always+room+for+improvement." alt="Typing SVG" />
 </a>
 
-<div>
-  <img src="https://github.com/user-attachments/assets/fcac48fa-b793-4a74-b353-c4c2b6669d9b" width="200px" align="right" alt="funny cat"/>
-</div>
-
 <ul>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="25px" align="center" /> Based in <strong>São Caetano do Sul, São Paulo, Brazil</strong>
