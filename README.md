@@ -5,8 +5,8 @@
   </picture>
 </a>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Breno Augusto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrenoAugustoOG&color=blue" alt="Profile views" /> </p>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leonardo Moreno</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pleomoreno&color=red" alt="Profile views" /> </p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65C7FC&width=435&lines=Computer+Science+Student+at+IMT;Trying+to+get+better+everyday!;%22One+day+or+day+one%22" alt="Typing SVG" />
