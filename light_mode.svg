@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="610px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="650px" height="450px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,24 +15,26 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="610px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="650" height="450px" fill="#f6f8fa" rx="15"/>
 <text x="10" y="30" fill="#24292f">
-<tspan x="10" y="30">leonardo@moreno</tspan> -————————————————————————————————————————-—-
-<tspan x="10" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Windows 11, iOS 18, macOS 13</tspan>
-<tspan x="10" y="70" class="cc">. </tspan><tspan class="key">Academic Background</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Instituto Maua de Tecnologia</tspan>
-<tspan x="10" y="90" class="cc">. </tspan><tspan class="key">Soft.Skills</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Leadership, Creativity</tspan>
-<tspan x="10" y="110" class="cc">. </tspan><tspan class="key">Hard.Skills</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Office, Photoshop, Premiere, Canva</tspan>
-<tspan x="10" y="130" class="cc">. </tspan><tspan class="key">IDEs</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">MySQL, VSCode</tspan>
-<tspan x="10" y="150" class="cc">. </tspan>
-<tspan x="10" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming1</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Java, Python, SQL</tspan>
-<tspan x="10" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming2</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS, JS, React</tspan>
-<tspan x="10" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Portuguese, English, Spanish</tspan>
+<tspan x="10" y="30">leonardo@moreno</tspan> -————————————————————————————————————————————————
+<tspan x="10" y="50"  class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows 11, Fedora 44, MacOS 26</tspan>
+<tspan x="10" y="70"  class="cc">. </tspan><tspan class="key">Academic</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Computer Science — Instituto Mauá de Tecnologia</tspan>
+<tspan x="10" y="90"  class="cc">. </tspan>
+<tspan x="10" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Python, JavaScript, Java, SQL</tspan>
+<tspan x="10" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">HTML, CSS</tspan>
+<tspan x="10" y="150" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">FastAPI, Pygame, NumPy</tspan>
+<tspan x="10" y="170" class="cc">. </tspan><tspan class="key">Cloud</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">AWS Lambda, DynamoDB, CI/CD</tspan>
+<tspan x="10" y="190" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Git, ApiDog, Shopify, VSCode</tspan>
+<tspan x="10" y="210" class="cc">. </tspan><tspan class="key">Concepts</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">REST APIs, Clean Architecture, OOP</tspan>
 <tspan x="10" y="230" class="cc">. </tspan>
-<tspan x="10" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">PS Vita Modding, iOS Jailbreaking</tspan>
-<tspan x="10" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Overclocking, Replacing</tspan>
-<tspan x="10" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="10" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">leonardoa.moreno07@gmail.com</tspan>
-<tspan x="10" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">25.00137-1@maua.br</tspan>
-<tspan x="10" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">leomoreno</tspan>
+<tspan x="10" y="250" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Portuguese, English C1, Spanish B2</tspan>
+<tspan x="10" y="270" class="cc">. </tspan>
+<tspan x="10" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PS Vita Modding, iOS Jailbreaking</tspan>
+<tspan x="10" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Overclocking, Modding</tspan>
+<tspan x="10" y="350">- Contact</tspan> -——————————————————————————————————————————————————————
+<tspan x="10" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">leonardoa.moreno07@gmail.com</tspan>
+<tspan x="10" y="390" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">pleomoreno.github.io/meu-portfolio</tspan>
+<tspan x="10" y="410" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">linkedin.com/in/leomoreno</tspan>
 </text>
 </svg>
