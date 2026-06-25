@@ -21,7 +21,7 @@ text, tspan {white-space: pre;}
 <tspan x="10" y="50"  class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Windows 11, Fedora 44, MacOS 26</tspan>
 <tspan x="10" y="70"  class="cc">. </tspan><tspan class="key">Academic</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Computer Science — Instituto Mauá de Tecnologia</tspan>
 <tspan x="10" y="90"  class="cc">. </tspan>
-<tspan x="10" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Python, JavaScript, Java, SQL</tspan>
+<tspan x="10" y="110" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, JavaScript, Java, C++ SQL</tspan>
 <tspan x="10" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">HTML, CSS</tspan>
 <tspan x="10" y="150" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">FastAPI, Pygame, NumPy</tspan>
 <tspan x="10" y="170" class="cc">. </tspan><tspan class="key">Cloud</tspan>.<tspan class="key">DevOps</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">AWS Lambda, DynamoDB, CI/CD</tspan>
