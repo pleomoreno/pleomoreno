@@ -58,8 +58,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leonardoa.moreno07@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ⚙️ GitHub Analytics
-
-  [![Leonardo Moreno's GitHub stats](https://github-readme-stats.vercel.app/api?username=pleomoreno&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/pleomoreno/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleomoreno&hide_progress=true&theme=github_dark)](https://github.com/pleomoreno/github-readme-stats)
