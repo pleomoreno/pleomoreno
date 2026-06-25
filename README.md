@@ -16,14 +16,23 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="25px" align="center" /> Based in <strong>São Caetano do Sul, São Paulo, Brazil</strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="leonardoa.moreno07@gmail.com"><strong>leonardoa.moreno07@gmail.com</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:leonardoa.moreno07@gmail.com"><strong>leonardoa.moreno07@gmail.com</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Student Emoji" width="25px" align="center" /> Currently studying in Computer Science at <strong>Instituto Mauá de Tecnologia</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Student Emoji" width="25px" align="center" /> Currently studying Computer Science at <strong>Instituto Mauá de Tecnologia</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle Emoji" width="25px" align="center" /> Always curious to <strong>learn</strong> more stuff
   </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase Emoji" width="25px" align="center" /> Check out my projects on my <a href="https://pleomoreno.github.io/meu-portfolio"><strong>Portfolio</strong></a>
+  </li>
+</ul>
+
+### 🔭 Currently working on & learning:
+<ul>
+  <li>💻 Exploring Full-Stack development with a strong passion for Back-End architecture.</li>
+  <li>🌱 Deepening my skills in Python and Front-end in general, while also learning Java and C++.</li>
 </ul>
 
 <picture>
@@ -55,6 +64,5 @@
 ##  📫 Social Medias/Contact: 
     
 <a href="https://www.linkedin.com/in/leomoreno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leonardoa.moreno07@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="mailto:leonardoa.moreno07@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href="https://pleomoreno.github.io/meu-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=Web&logoColor=white"></a>
